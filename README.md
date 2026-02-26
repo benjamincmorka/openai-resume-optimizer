@@ -1,6 +1,6 @@
 # Resume Optimizer
 
-Resume Optimizer is an AI-powered web app that provides personalized, actionable feedback on your resume tailored to specific job descriptions. It combines advanced Python backend processing with a sleek React frontend to streamline the resume review process using modern cloud AI services.
+Resume Optimizer is an application that provides personalized, actionable feedback on your resume tailored to specific job descriptions. 
 
 ---
 
@@ -10,13 +10,7 @@ The backend is built with **Python** and **FastAPI**, handling resume parsing an
 
 ---
 
-## Frontend (React)
-
-The frontend is developed in **React**, offering users an intuitive interface to upload resumes and job descriptions, then view detailed feedback instantly.
-
----
-
-## Cloud AI Services
+## APIs
 
 - **Azure Form Recognizer**: Extracts rich semantic information from resumes.
 - **OpenAI API**: Powers natural language understanding and feedback generation.
@@ -37,11 +31,6 @@ The frontend is developed in **React**, offering users an intuitive interface to
 3. Enjoy a smooth, modern user experience across devices.
 
 ---
-
-## Website
-
-Check out the live website here:
-[https://resume-reviewer-coral.vercel.app](https://resume-reviewer-coral.vercel.app)
 
 ---
 
